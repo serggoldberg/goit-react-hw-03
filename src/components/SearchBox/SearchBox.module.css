@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    margin: 0 auto;
+}
+
+.formField {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    gap: 10px;
+}
+
+.input {
+    font-family: 'Briem Hand', sans-serif;
+    border: 1px solid black;
+    padding: 10px 15px;
+    border-radius: 10px;
+    width: 400px;
+}

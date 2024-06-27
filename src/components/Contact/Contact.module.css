@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.shell{
+    width: 200px;
+}
+
+.button{
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+}
